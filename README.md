@@ -18,6 +18,6 @@ This is a simple weather app built using HTML, CSS, and JavaScript. It allows us
 
 <span style="font-size: 30px;">**Technologies Used**</span>
 <br>
-1) HTML <br>
-2) CSS <br>
-3) JavaScript <br>
+* HTML <br>
+* CSS <br>
+* JavaScript <br>
